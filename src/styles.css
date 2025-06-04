@@ -1,0 +1,81 @@
+body {
+  font-family: Arial;
+  background-color: white;
+  color: black;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: lightblue;
+  padding: 10px;
+}
+
+footer {
+  background-color: lightblue;
+  padding: 10px;
+}
+
+main {
+  padding: 10px;
+}
+
+form {
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+form input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
+
+.oscuro {
+  background-color: black;
+  color: white;
+}
+
+.oscuro header {
+  background-color: #222;
+}
+
+.oscuro footer {
+  background-color: #222;
+}
+
+.oscuro #participantes div {
+  color: white;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+#participantes {
+  text-align: center;
+  margin: 20px;
+}
+
+#participantes div {
+  display: inline-block;
+  width: 150px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid gray;
+}
