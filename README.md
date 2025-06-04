@@ -4,6 +4,6 @@
 
 ## 🔗 Link de la pagina: 
 
-- https://idkjose.github.io/laboratorio-2-IdkJose/
+- https://https://idkjose.github.io/Dev-Challenge/
 
 ---
